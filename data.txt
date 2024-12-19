@@ -1,1 +1,2 @@
-true 
+String pC = fileData.getString("content");
+						String previousContent = Base64.getDecoder().decode(pC.getBytes()).toString();
