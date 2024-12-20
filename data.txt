@@ -1,1 +1,1 @@
-outputContent
+String base64EncodedText
