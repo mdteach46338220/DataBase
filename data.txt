@@ -1,7 +1,0 @@
-all ok
-
-
-Name: Muhammad Abdullah
-Number: 5160
-Expiry: 88
-CVV: 555
